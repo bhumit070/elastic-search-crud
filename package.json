@@ -1,0 +1,10 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.1.0",
+    "express": "^4.17.3"
+  }
+}
